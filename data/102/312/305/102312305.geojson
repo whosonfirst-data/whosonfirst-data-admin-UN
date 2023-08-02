@@ -25,6 +25,9 @@
     "name:abk_x_preferred":[
         "\u0415\u0438\u0434\u0433\u044b\u043b\u043e\u0443 \u0410\u043c\u0438\u043b\u0430\u04ad\u049b\u04d9\u0430 \u0420\u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0430"
     ],
+    "name:ace_x_preferred":[
+        "Persjarikatan Bangsa-Bangsa"
+    ],
     "name:ady_x_preferred":[
         "\u0414\u0443\u043d\u044d\u0435 \u041b\u044a\u044d\u043f\u043a\u044a \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0435"
     ],
@@ -37,6 +40,9 @@
     "name:als_x_preferred":[
         "Vereinte Nationen"
     ],
+    "name:alt_x_preferred":[
+        "\u0411\u0438\u0440\u0438\u043a\u043a\u0435\u043d \u0423\u043a\u0442\u0430\u0440"
+    ],
     "name:amh_x_preferred":[
         "\u12e8\u1270\u1263\u1260\u1229\u1275 \u1218\u1295\u130d\u1225\u1273\u1275 \u12f5\u122d\u1305\u1275"
     ],
@@ -46,11 +52,17 @@
     "name:ang_x_preferred":[
         "Ge\u0101nedan \u00fe\u0113oda"
     ],
+    "name:anp_x_preferred":[
+        "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0930\u093e\u0937\u094d\u091f\u094d\u0930"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
     ],
     "name:arg_x_preferred":[
         "Organizaci\u00f3n d'as Nacions Unitas"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u0623\u0645\u0645 \u0644\u0645\u062a\u062d\u062f\u0629"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0647"
@@ -67,6 +79,12 @@
     "name:ava_x_variant":[
         "\u0426\u043e\u043b\u044a\u0430\u0440\u0430\u043b \u041c\u0438\u043b\u043b\u0430\u0442\u0430\u0437\u0443\u043b \u0413\u0406\u0443\u0446\u0406\u0446\u0406\u0438"
     ],
+    "name:awa_x_preferred":[
+        "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0930\u093e\u0937\u094d\u091f\u094d\u0930"
+    ],
+    "name:aym_x_preferred":[
+        "Mayachat Markanaka"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0631\u0644\u0634\u0645\u06cc\u0634 \u0645\u06cc\u0644\u062a\u0644\u0631 \u062a\u0634\u06a9\u06cc\u0644\u0627\u062a\u06cc"
     ],
@@ -79,6 +97,9 @@
     "name:bak_x_preferred":[
         "\u0411\u0435\u0440\u043b\u04d9\u0448\u043a\u04d9\u043d \u041c\u0438\u043b\u043b\u04d9\u0442\u0442\u04d9\u0440 \u041e\u0439\u043e\u0448\u043c\u0430\u04bb\u044b"
     ],
+    "name:ban_x_preferred":[
+        "Perserikatan Bangsa-Bangsa"
+    ],
     "name:bar_x_preferred":[
         "UNO"
     ],
@@ -89,7 +110,8 @@
         "\u0410\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044f \u0410\u0431'\u044f\u0434\u043d\u0430\u043d\u044b\u0445 \u041d\u0430\u0446\u044b\u0439"
     ],
     "name:bel_x_variant":[
-        "\u0410\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044f \u0410\u0431\u2019\u044f\u0434\u043d\u0430\u043d\u044b\u0445 \u041d\u0430\u0446\u044b\u044f\u045e"
+        "\u0410\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044f \u0410\u0431\u2019\u044f\u0434\u043d\u0430\u043d\u044b\u0445 \u041d\u0430\u0446\u044b\u044f\u045e",
+        "\u0410\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044f \u0410\u0431\u2019\u044f\u0434\u043d\u0430\u043d\u044b\u0445 \u041d\u0430\u0446\u044b\u0439"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09a4\u09bf\u09b8\u0982\u0998"
@@ -99,6 +121,9 @@
     ],
     "name:bis_x_preferred":[
         "Yunaeted Nesen"
+    ],
+    "name:blk_x_preferred":[
+        "\u1000\u102f\u101c\u101e\u1019\u1002\u1039\u1002"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f49\u0f58\u0f0b\u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0d"
@@ -114,6 +139,9 @@
     ],
     "name:bre_x_preferred":[
         "Aozadur ar Broado\u00f9 Unanet"
+    ],
+    "name:bug_x_preferred":[
+        "Asseddingenna Bangsa Bangsae"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u043d\u0430 \u043e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0442\u0435 \u043d\u0430\u0446\u0438\u0438"
@@ -136,8 +164,14 @@
     "name:ces_x_preferred":[
         "Organizace spojen\u00fdch n\u00e1rod\u016f"
     ],
+    "name:cha_x_preferred":[
+        "Unidas Nasion"
+    ],
     "name:che_x_preferred":[
         "\u0412\u043e\u0432\u0448\u0430\u0445\u043a\u0445\u0435\u0442\u0442\u0430 \u041a\u044a\u0430\u044c\u043c\u043d\u0438\u0439\u043d \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438"
+    ],
+    "name:chr_x_preferred":[
+        "\u13cc\u13ca \u13a2\u13f3\u13be\u13b5\u13cd\u13d4\u13c5 \u13a0\u13f0\u13b5 \u13da\u13be\u13d9\u13e2\u13e9\u13d7\u13d2"
     ],
     "name:chv_x_preferred":[
         "\u041f\u0115\u0440\u043b\u0435\u0448\u043d\u0115 \u041d\u0430\u0446\u0438\u0441\u0435\u043d \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439\u0115"
@@ -148,11 +182,17 @@
     "name:cor_x_preferred":[
         "Kenedhlow Unys"
     ],
+    "name:cos_x_preferred":[
+        "Nazioni Uniti"
+    ],
     "name:crh_x_preferred":[
         "Birle\u015fken Milletler Te\u015fkil\u00e2t\u0131"
     ],
     "name:cym_x_preferred":[
         "Y Cenhedloedd Unedig"
+    ],
+    "name:dag_x_preferred":[
+        "Ti\u014bgbana Na\u014bgban Yini Laxi\u014bgu"
     ],
     "name:dan_x_preferred":[
         "Forenede Nationer"
@@ -169,11 +209,17 @@
     "name:dsb_x_preferred":[
         "Zjadno\u015bone narody"
     ],
+    "name:dtp_x_preferred":[
+        "Pisompuruan Tinaru Sompomogunan"
+    ],
     "name:dty_x_preferred":[
         "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0902\u0918"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03c9\u03bd \u0395\u03b8\u03bd\u03ce\u03bd"
+    ],
+    "name:eml_x_preferred":[
+        "Nasi\u00f2un Un\u00ecdi"
     ],
     "name:eng_ca_x_preferred":[
         "United Nations"
@@ -193,6 +239,9 @@
     "name:eus_x_preferred":[
         "Nazio Batuen Erakundea"
     ],
+    "name:ewe_x_preferred":[
+        "Duk\u0254 \u0191o\u0192uawo"
+    ],
     "name:ext_x_preferred":[
         "Nacionis Un\u00edas"
     ],
@@ -204,6 +253,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u062a\u062d\u062f"
+    ],
+    "name:fij_x_preferred":[
+        "Matabose Kei Vuravura"
     ],
     "name:fin_x_preferred":[
         "Yhdistyneet kansakunnat"
@@ -220,8 +272,14 @@
     "name:fry_x_preferred":[
         "Feriene Naasjes"
     ],
+    "name:ful_x_preferred":[
+        "Ngenndiije Dentu\u0257e"
+    ],
     "name:fur_x_preferred":[
         "Organizazion des Nazions Unidis"
+    ],
+    "name:gag_x_preferred":[
+        "Birle\u015fmi\u015f Milletl\u00e4r"
     ],
     "name:gan_x_preferred":[
         "\u806f\u5408\u570b"
@@ -289,11 +347,17 @@
     "name:hyw_x_preferred":[
         "\u0544\u056b\u0561\u0581\u0565\u0561\u056c \u0531\u0566\u0563\u0565\u0580\u0578\u0582 \u053f\u0561\u0566\u0574\u0561\u056f\u0565\u0580\u057a\u0578\u0582\u0569\u056b\u0582\u0576"
     ],
+    "name:ibo_x_preferred":[
+        "Mba Nd\u1ecb D\u1ecb n'Otu"
+    ],
     "name:ido_x_preferred":[
         "Unionita Nacioni"
     ],
     "name:ido_x_variant":[
         "Unioninta Nacioni"
+    ],
+    "name:iku_x_preferred":[
+        "\u14c4\u14c7\u1550\u152a\u140a\u1550\u14a5 \u1472\u1450\u153e\u1528\u1583\u144e\u148c\u1466"
     ],
     "name:ile_x_preferred":[
         "Organisation del Unit Nationes"
@@ -356,8 +420,14 @@
     "name:kbp_x_preferred":[
         "ONU \u014bgb\u025by\u025b"
     ],
+    "name:kcg_x_preferred":[
+        "Mun\u00e1\u0331pyia\u0331 Bibyin Swanta"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u1784\u17d2\u1782\u1780\u17b6\u179a\u179f\u17a0\u1794\u17d2\u179a\u1787\u17b6\u1787\u17b6\u178f\u17b7"
+    ],
+    "name:kik_x_preferred":[
+        "\u0168r\u0169mwe wa Mab\u0169r\u0169ri"
     ],
     "name:kin_x_preferred":[
         "Umuryango w\u2019Abibumye"
@@ -367,6 +437,9 @@
     ],
     "name:kom_x_preferred":[
         "\u04e6\u0442\u0443\u0432\u0442\u0447\u04e7\u043c \u0412\u043e\u0439\u0442\u044b\u0440\u044a\u044f\u0441\u043b\u04e7\u043d \u041a\u043e\u0442\u044b\u0440"
+    ],
+    "name:kon_x_preferred":[
+        "Nations unies"
     ],
     "name:kor_x_preferred":[
         "\uc720\uc5d4"
@@ -413,11 +486,20 @@
     "name:lmo_x_preferred":[
         "Urganizaziun di Naziun \u00dcnii"
     ],
+    "name:lrc_x_preferred":[
+        "\u0633\u0627\u0645\u0648\u0646\u062c\u0627 \u0632\u0627\u06cc\u0627\u0631\u0671\u06cc\u0627 \u06cc\u0671\u06a9\u0627\u06af\u0631\u062a\u0671"
+    ],
     "name:ltz_x_preferred":[
         "Vereent Natiounen"
     ],
+    "name:lug_x_preferred":[
+        "Ekibiina ky'Amawanga amagatte"
+    ],
     "name:lzh_x_preferred":[
         "\u806f\u5408\u570b"
+    ],
+    "name:mad_x_preferred":[
+        "Parsarekatan Bangsa-Bangsa"
     ],
     "name:mai_x_preferred":[
         "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0919\u094d\u0918"
@@ -442,6 +524,9 @@
     ],
     "name:mlt_x_preferred":[
         "\u0120nus Mag\u0127quda"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabc5\uabe4\uabe1\uabc7\uabdd\uabc2\uabd5 \uabc2\uabe9\uabc4\uabe5\uabdb"
     ],
     "name:mnw_x_preferred":[
         "\u1000\u102f\u101c\u101e\u1019\u1002\u1039\u1002"
@@ -482,6 +567,9 @@
     "name:new_x_preferred":[
         "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0902\u0918"
     ],
+    "name:nia_x_preferred":[
+        "Perserikatan Bangsa-Bangsa"
+    ],
     "name:nld_x_preferred":[
         "Verenigde Naties"
     ],
@@ -503,23 +591,44 @@
     "name:nrm_x_preferred":[
         "Organisatioun des Natiouns Eunies"
     ],
+    "name:nso_x_preferred":[
+        "Dit\u0161haba t\u0161e Kopanego"
+    ],
+    "name:nya_x_preferred":[
+        "Mitundu Yogwirizana"
+    ],
     "name:oci_x_preferred":[
         "Organizacion de las Nacions Unidas"
     ],
     "name:ori_x_preferred":[
         "\u0b1c\u0b3e\u0b24\u0b3f\u0b38\u0b02\u0b18"
     ],
+    "name:orm_x_preferred":[
+        "Mootummoota Gamtoomanii"
+    ],
     "name:oss_x_preferred":[
         "\u0418\u0443\u0433\u043e\u043d\u0434 \u041d\u0430\u0446\u0438\u0442\u044b \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438"
     ],
+    "name:pag_x_preferred":[
+        "Nasyones Unidas"
+    ],
     "name:pam_x_preferred":[
         "Misasanmetung a Bangsa"
+    ],
+    "name:pam_x_variant":[
+        "Ding Bangs\u00e2ng Mis\u00e1sanmetung"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a70\u0a2f\u0a41\u0a15\u0a24 \u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30"
     ],
     "name:pap_x_preferred":[
         "Nashonan Uni"
+    ],
+    "name:pap_x_variant":[
+        "Nashonnan Uni"
+    ],
+    "name:pcd_x_preferred":[
+        "Nacions-Unies"
     ],
     "name:pfl_x_preferred":[
         "Verainde Nadsione"
@@ -545,6 +654,9 @@
     "name:pus_x_preferred":[
         "\u0645\u0644\u06af\u0631\u064a \u0645\u0644\u062a\u0648\u0646\u0647"
     ],
+    "name:pwn_x_preferred":[
+        "marekakunian"
+    ],
     "name:que_x_preferred":[
         "Hu\u00f1usqa Aylluskakuna"
     ],
@@ -563,11 +675,17 @@
     "name:rue_x_variant":[
         "\u041e\u0440\u0491\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f \u0417\u044a\u0454\u0434\u043d\u043e\u0447\u0435\u043d\u044b\u0445 \u041d\u0430\u0446\u0456\u0439"
     ],
+    "name:run_x_preferred":[
+        "Ishirahamwe Mpuzamakungu"
+    ],
     "name:rup_x_preferred":[
         "Natsiile Unite"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0445 \u041d\u0430\u0446\u0438\u0439"
+    ],
+    "name:sag_x_preferred":[
+        "Bendo ti Gigi"
     ],
     "name:sah_x_preferred":[
         "\u0425\u043e\u043b\u0431\u043e\u04bb\u0443\u043a\u0442\u0430\u0430\u0445 \u041d\u0430\u0446\u0438\u044f\u043b\u0430\u0440 \u0422\u044d\u0440\u0438\u043b\u0442\u044d\u043b\u044d\u0440\u044d"
@@ -593,6 +711,9 @@
     "name:sgs_x_preferred":[
         "Jongt\u0117niu Taut\u016b Uorgan\u0117zac\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1078\u1062\u1010\u103a\u1088\u1078\u102d\u102f\u1004\u103a\u1088\u101c\u102f\u1019\u103a\u1088\u107e\u1083\u1089"
+    ],
     "name:sin_x_preferred":[
         "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba"
     ],
@@ -614,6 +735,9 @@
     "name:sms_x_preferred":[
         "\u00d5htt\u00f5\u00f5vv\u00e2m meerkoo\u02b9ddi"
     ],
+    "name:sms_x_variant":[
+        "\u00d5htt\u00f5\u00f5vv\u00e2m meerk\u00e5\u00e5\u02b9dd"
+    ],
     "name:sna_x_preferred":[
         "Mubatanidzwa weNyika Pasirose"
     ],
@@ -634,6 +758,9 @@
     ],
     "name:srd_x_preferred":[
         "ONU"
+    ],
+    "name:srn_x_preferred":[
+        "Verenigde N\u00e2si"
     ],
     "name:srp_ec_x_preferred":[
         "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0458\u0430 \u0443\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u0438\u0445 \u043d\u0430\u0446\u0438\u0458\u0430"
@@ -659,6 +786,18 @@
     "name:swe_x_preferred":[
         "F\u00f6renta nationerna"
     ],
+    "name:syl_x_preferred":[
+        "\ua804\ua807\ua823\ua810\ua806\ua810\ua823 \ua80e\ua823\ua814\ua824\ua818"
+    ],
+    "name:szl_x_preferred":[
+        "\u00d4rganizacyj\u014f Zjydnocz\u014dnych Nacyj\u014dw"
+    ],
+    "name:szy_x_preferred":[
+        "sakaputay a kanatal"
+    ],
+    "name:tah_x_preferred":[
+        "Nunaa Amui"
+    ],
     "name:tam_x_preferred":[
         "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0bc8"
     ],
@@ -668,8 +807,14 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u0440\u043b\u04d9\u0448\u043a\u04d9\u043d \u041c\u0438\u043b\u043b\u04d9\u0442\u043b\u04d9\u0440 \u041e\u0435\u0448\u043c\u0430\u0441\u044b"
     ],
+    "name:tcy_x_preferred":[
+        "\u0cb5\u0cbf\u0cb6\u0ccd\u0cb5 \u0cb8\u0ce6\u0cb8\u0ccd\u0c9f\u0cc6"
+    ],
     "name:tel_x_preferred":[
         "\u0c10\u0c15\u0c4d\u0c2f\u0c30\u0c3e\u0c1c\u0c4d\u0c2f \u0c38\u0c2e\u0c3f\u0c24\u0c3f"
+    ],
+    "name:tet_x_preferred":[
+        "Nasoens Unidas"
     ],
     "name:tgk_x_preferred":[
         "\u0421\u043e\u0437\u043c\u043e\u043d\u0438 \u041c\u0438\u043b\u0430\u043b\u0438 \u041c\u0443\u0442\u0442\u0430\u04b3\u0438\u0434"
@@ -680,6 +825,18 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e2b\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e0a\u0e32\u0e15\u0e34"
     ],
+    "name:tir_x_preferred":[
+        "\u1215\u1261\u122b\u1275 \u1203\u1308\u122b\u1275"
+    ],
+    "name:ton_x_preferred":[
+        "Ngaahi Pule\u02bbanga Fakatahatah\u00e1"
+    ],
+    "name:tpi_x_preferred":[
+        "Yunaitet Nesen"
+    ],
+    "name:trv_x_preferred":[
+        "Reynhekwo"
+    ],
     "name:tso_x_preferred":[
         "Matiko la ma hlanganeke"
     ],
@@ -688,6 +845,9 @@
     ],
     "name:tur_x_preferred":[
         "Birle\u015fmi\u015f Milletler"
+    ],
+    "name:twi_x_preferred":[
+        "Am\u0251n\u0251m\u0251n Nk\u0251b\u0254mu"
     ],
     "name:udm_x_preferred":[
         "\u041e\u0433\u0430\u0437\u0435\u044f\u0441\u044c\u043a\u0435\u043c \u041d\u0430\u0446\u0438\u043e\u0441\u043b\u044d\u043d \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0437\u044b"
@@ -713,11 +873,20 @@
     "name:vec_x_preferred":[
         "ONU"
     ],
+    "name:ven_x_preferred":[
+        "Dzangano \u1e3da Yuno"
+    ],
     "name:vep_x_preferred":[
         "\u00dchtenzoittud Rahvahiden Organizacii"
     ],
     "name:vie_x_preferred":[
         "Li\u00ean Hi\u1ec7p Qu\u1ed1c"
+    ],
+    "name:vie_x_variant":[
+        "Li\u00ean H\u1ee3p Qu\u1ed1c"
+    ],
+    "name:vls_x_preferred":[
+        "Ver\u00eanigde Noaties"
     ],
     "name:vol_x_preferred":[
         "Nogan Netas Pebal\u00f6l"
@@ -832,7 +1001,7 @@
         "spa",
         "mul"
     ],
-    "wof:lastmodified":1617827390,
+    "wof:lastmodified":1690879908,
     "wof:name":"United Nations",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
