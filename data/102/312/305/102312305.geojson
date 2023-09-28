@@ -975,9 +975,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "iso:code":"UN",
         "tgn:id":7029605,
         "wd:id":"Q1065"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UN",
     "wof:geomhash":"7ed71bd71aa9b6c897d0bed6f5ee1f31",
     "wof:hierarchy":[
@@ -1004,7 +1006,7 @@
         "spa",
         "mul"
     ],
-    "wof:lastmodified":1694492049,
+    "wof:lastmodified":1695881158,
     "wof:name":"United Nations",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
